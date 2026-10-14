@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.zh-CN.md">简体中文</a>
+</p>
+
 # Hi, I'm ZiTong Wang 👋
 
 > **I build systems to understand how things work, and games to explore how things could be.**
