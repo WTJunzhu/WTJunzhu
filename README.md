@@ -21,7 +21,7 @@ On the other side, I design and build my own games — rethinking the mechanics 
 </p>
 
 <p align="center">
-<i>A game server is a distributed system. A coroutine scheduler is a game loop.<br/>Understanding one makes you better at the other.</i>
+<i>A game server is a distributed system. A coroutine scheduler is a game loop.<br/>Understanding one makes me better at the other.</i>
 </p>
 
 ---
@@ -37,6 +37,29 @@ On the other side, I design and build my own games — rethinking the mechanics 
 ---
 
 <div id="english"></div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,cs,go,rust&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,linux,docker,mysql,redis&theme=dark" />
+
+</div>
+
+<table align="center">
+<tr>
+  <td align="center"><b>AI / Agent</b></td>
+  <td>LLM API (OpenAI · Anthropic) · Embedding · Agent Memory · Context Compression</td>
+</tr>
+<tr>
+  <td align="center"><b>Fundamentals</b></td>
+  <td>Distributed Systems (Raft) · Coroutines (ucontext + epoll) · Storage Engines (skip-list) · Design Patterns</td>
+</tr>
+</table>
+
+---
 
 ## ⚙️ Engineering & Systems
 
@@ -82,29 +105,6 @@ I explore game AI by re-creating classic tabletop games — learning not just ho
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,cs,go,rust&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,linux,docker,mysql,redis&theme=dark" />
-
-</div>
-
-<table align="center">
-<tr>
-  <td align="center"><b>AI / Agent</b></td>
-  <td>LLM API (OpenAI · Anthropic) · Embedding · Agent Memory · Context Compression</td>
-</tr>
-<tr>
-  <td align="center"><b>Fundamentals</b></td>
-  <td>Distributed Systems (Raft) · Coroutines (ucontext + epoll) · Storage Engines (skip-list) · Design Patterns</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 ### 🌱 What This GitHub Is
@@ -144,7 +144,7 @@ Others are exercises in **imagination** — asking what a card game *could* be a
 </p>
 
 <p align="center">
-<i>游戏服务器就是分布式系统。协程调度器就是游戏主循环。<br/>理解其中一方，会让你更擅长另一方。</i>
+<i>游戏服务器就是分布式系统。协程调度器就是游戏主循环。<br/>理解其中一方，会让我更擅长另一方。</i>
 </p>
 
 ---
@@ -156,6 +156,29 @@ Others are exercises in **imagination** — asking what a card game *could* be a
 | <img src="https://github-readme-stats.vercel.app/api?username=WTJunzhu&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTJunzhu&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" /> |
 
 </div>
+
+---
+
+## 🛠️ 技术栈
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,cs,go,rust&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,linux,docker,mysql,redis&theme=dark" />
+
+</div>
+
+<table align="center">
+<tr>
+  <td align="center"><b>AI / Agent</b></td>
+  <td>LLM API（OpenAI · Anthropic）· Embedding · Agent Memory · 上下文压缩</td>
+</tr>
+<tr>
+  <td align="center"><b>计算机基础</b></td>
+  <td>分布式系统（Raft）· 并发编程（协程、epoll）· 存储引擎（跳表）· 设计模式</td>
+</tr>
+</table>
 
 ---
 
@@ -200,29 +223,6 @@ Others are exercises in **imagination** — asking what a card game *could* be a
 - **[VR-waste-sorting](https://github.com/WTJunzhu/VR-waste-sorting)** — 我的第一个 VR 实验：基于 Unity 与 C# 的环保教育游戏，探索沉浸式环境互动。
 - **[HexTechBilliards](https://github.com/WTJunzhu/HexTechBilliards)** — 基于 TypeScript 的物理机制实验性游戏。
 - **[ParkcleanVR](https://github.com/WTJunzhu/ParkcleanVR)** — 一个 VR 课程项目，探索沉浸式设计的另一种可能。
-
----
-
-## 🛠️ 技术栈
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,cs,go,rust&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,linux,docker,mysql,redis&theme=dark" />
-
-</div>
-
-<table align="center">
-<tr>
-  <td align="center"><b>AI / Agent</b></td>
-  <td>LLM API（OpenAI · Anthropic）· Embedding · Agent Memory · 上下文压缩</td>
-</tr>
-<tr>
-  <td align="center"><b>计算机基础</b></td>
-  <td>分布式系统（Raft）· 并发编程（协程、epoll）· 存储引擎（跳表）· 设计模式</td>
-</tr>
-</table>
 
 ---
 
