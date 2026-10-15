@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WTJunzhu&theme=onedark&no-frame=true&column=7&margin-w=8&title=Commits,PullRequest,Issues,Repositories,Stars,Followers,MultiLanguage" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=WTJunzhu&theme=onedark&no-frame=true&column=7&margin-w=8&title=Commits,PullRequest,Issues,Repositories,Stars,Followers,MultiLanguage" />
 </div>
 
 ---
@@ -170,7 +170,7 @@ Others are exercises in **imagination** — asking what a card game *could* be a
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WTJunzhu&theme=onedark&no-frame=true&column=7&margin-w=8&title=Commits,PullRequest,Issues,Repositories,Stars,Followers,MultiLanguage" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=WTJunzhu&theme=onedark&no-frame=true&column=7&margin-w=8&title=Commits,PullRequest,Issues,Repositories,Stars,Followers,MultiLanguage" />
 </div>
 
 ---
