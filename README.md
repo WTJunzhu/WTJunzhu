@@ -2,13 +2,37 @@
   <a href="./README.zh-CN.md">简体中文</a>
 </p>
 
-# Hi, I'm ZiTong Wang 👋
+<div align="center">
+  <a href="https://github.com/WTJunzhu">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineering+the+systems+beneath+the+surface;Designing+the+games+beyond+the+rules;Both%2C+always." alt="Typing SVG" />
+  </a>
+</div>
 
-> **Engineering the systems beneath the surface. Designing the games beyond the rules.**
+<h1 align="center">Hi, I'm ZiTong Wang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-I'm a Software Engineering undergraduate at Southeast University. I'm currently interning at Kuaishou as a backend engineer, building AI Agent infrastructure. On the other side, I design and build my own games — exploring what happens when you rethink the mechanics of play.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WTJunzhu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-These two threads aren't separate. A game server is a distributed system. A coroutine scheduler is a game loop. Understanding one makes me better at the other.
+<p align="center">
+I'm a Software Engineering undergraduate at Southeast University.<br/>
+I intern at <b>Kuaishou</b> as a backend engineer, building AI Agent infrastructure.<br/>
+On the other side, I design and build my own games — rethinking the mechanics of play.
+</p>
+
+<p align="center">
+<i>A game server is a distributed system. A coroutine scheduler is a game loop.<br/>Understanding one makes you better at the other.</i>
+</p>
+
+---
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=WTJunzhu&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTJunzhu&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" /> |
+
+</div>
 
 ---
 
@@ -18,7 +42,7 @@ These two threads aren't separate. A game server is a distributed system. A coro
 
 - **Kuaishou · Algorithm Engine / Storage Engine Architecture** — Backend Development Intern (2026.05 – Present)
 
-  Core developer of Kloong, an AI Agent long-term memory gateway built on TencentDB Agent Memory (Hindsight + Headroom). It acts as an LLM proxy layer that automatically handles memory capture, semantic recall, and context compression during user conversations — injecting persistent memory into stateless LLM calls with multi-user, multi-credential isolation.
+  Core developer of **Kloong**, an AI Agent long-term memory gateway built on TencentDB Agent Memory (Hindsight + Headroom). It acts as an LLM proxy layer that automatically handles memory capture, semantic recall, and context compression during user conversations — injecting persistent memory into stateless LLM calls with multi-user, multi-credential isolation.
 
   Built an Embedding service from scratch (~300 lines Python) with containerized deployment, service discovery, and health-check-based auto-failover. Developed the Manager proxy core (~8,000 lines Python), implementing an OpenAI/Anthropic dual-protocol-compatible LLM proxy layer with multi-user credential management and request routing. Participated in TDAI Gateway (~33,000 lines TypeScript) integration, bridging memory read/write with external knowledge-base data pipelines. Set up container infrastructure (KESS + KNGX + Halo) with auto-discovery, failover, and .internal domain-based service addressing.
 
@@ -41,7 +65,6 @@ An original multiplayer card-strategy game that fuses Uno-style mechanics with r
 - **[RivalCourts-NAISHImultiplayer](https://github.com/WTJunzhu/RivalCourts-NAISHImultiplayer)** — A multiplayer, real-time adaptation of the classic NAISHI card game, rebuilt with Vue and WebSocket for smooth online play and localized for a new audience.
 - **[GyakutenMaker](https://github.com/WTJunzhu/GyakutenMaker)** — An experimental project in the Ren'Py visual-novel engine, exploring narrative-driven game design.
 
-
 ### AI-Assisted Tabletop Experiments
 
 I explore game AI by re-creating classic tabletop games — learning not just how to code them, but how to design and evaluate strategic decision-making:
@@ -59,35 +82,35 @@ I explore game AI by re-creating classic tabletop games — learning not just ho
 
 ## 🛠️ Tech Stack
 
-<table>
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,cs,go,rust&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,linux,docker,mysql,redis&theme=dark" />
+
+</div>
+
+<table align="center">
 <tr>
-  <td><b>Languages</b></td>
-  <td>Python · TypeScript · C++ · JavaScript · C# · SQL</td>
+  <td align="center"><b>AI / Agent</b></td>
+  <td>LLM API (OpenAI · Anthropic) · Embedding · Agent Memory · Context Compression</td>
 </tr>
 <tr>
-  <td><b>Backend & Infra</b></td>
-  <td>Protobuf · RPC · WebSocket · MySQL · Redis · Docker · Linux</td>
-</tr>
-<tr>
-  <td><b>Frontend</b></td>
-  <td>React · Next.js · Vue.js</td>
-</tr>
-<tr>
-  <td><b>AI / Agent</b></td>
-  <td>LLM API Integration (OpenAI / Anthropic) · Embedding · Agent Memory · Context Compression</td>
-</tr>
-<tr>
-  <td><b>CS Fundamentals</b></td>
-  <td>Distributed Systems (Raft) · Concurrency (coroutines, epoll) · Storage Engines (skip-list) · Design Patterns</td>
+  <td align="center"><b>Fundamentals</b></td>
+  <td>Distributed Systems (Raft) · Coroutines (ucontext + epoll) · Storage Engines (skip-list) · Design Patterns</td>
 </tr>
 </table>
 
 ---
 
+<div align="center">
+
 ### 🌱 What This GitHub Is
 
-Some repositories are exercises in engineering — understanding how a consensus algorithm works by implementing it, or what happens when a coroutine yields.
+Some repositories are exercises in **engineering** — understanding how a consensus algorithm works by implementing it, or what happens when a coroutine yields.
 
-Others are exercises in imagination — asking what a card game *could* be and then building it, with real players, real servers, and real design decisions.
+Others are exercises in **imagination** — asking what a card game *could* be and then building it, with real players, real servers, and real design decisions.
 
 **The ones I'm proudest of are both.**
+
+</div>
