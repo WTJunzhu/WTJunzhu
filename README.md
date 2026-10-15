@@ -8,20 +8,18 @@
   </a>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WTJunzhu/WTJunzhu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WTJunzhu/WTJunzhu/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WTJunzhu/WTJunzhu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <h1 align="center">Hi, I'm ZiTong Wang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WTJunzhu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-I'm a Software Engineering undergraduate at Southeast University.<br/>
-I intern at <b>Kuaishou</b> as a backend engineer, building AI Agent infrastructure.<br/>
-On the other side, I design and build my own games — rethinking the mechanics of play.
-</p>
-
-<p align="center">
-<i>A game server is a distributed system. A coroutine scheduler is a game loop.<br/>Understanding one makes me better at the other.</i>
 </p>
 
 ---
@@ -58,6 +56,18 @@ On the other side, I design and build my own games — rethinking the mechanics 
   <td>Distributed Systems (Raft) · Coroutines (ucontext + epoll) · Storage Engines (skip-list) · Design Patterns</td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+I'm a Software Engineering undergraduate at Southeast University.<br/>
+I intern at <b>Kuaishou</b> as a backend engineer, building AI Agent infrastructure.<br/>
+On the other side, I design and build my own games — rethinking the mechanics of play.
+</p>
+
+<p align="center">
+<i>A game server is a distributed system. A coroutine scheduler is a game loop.<br/>Understanding one makes me better at the other.</i>
+</p>
 
 ---
 
@@ -131,20 +141,18 @@ Others are exercises in **imagination** — asking what a card game *could* be a
   </a>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WTJunzhu/WTJunzhu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WTJunzhu/WTJunzhu/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WTJunzhu/WTJunzhu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <h1 align="center">你好，我是王子桐 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WTJunzhu&label=Profile%20views&color=0e75b6&style=flat" alt="访问量" />
-</p>
-
-<p align="center">
-我是东南大学软件工程专业的本科生。<br/>
-目前在 <b>快手</b> 担任后端开发实习生，从事 AI Agent 基础设施的建设工作。<br/>
-与此同时，我设计和开发自己的游戏——重新思考游戏玩法的可能性。
-</p>
-
-<p align="center">
-<i>游戏服务器就是分布式系统。协程调度器就是游戏主循环。<br/>理解其中一方，会让我更擅长另一方。</i>
 </p>
 
 ---
@@ -179,6 +187,18 @@ Others are exercises in **imagination** — asking what a card game *could* be a
   <td>分布式系统（Raft）· 并发编程（协程、epoll）· 存储引擎（跳表）· 设计模式</td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+我是东南大学软件工程专业的本科生。<br/>
+目前在 <b>快手</b> 担任后端开发实习生，从事 AI Agent 基础设施的建设工作。<br/>
+与此同时，我设计和开发自己的游戏——重新思考游戏玩法的可能性。
+</p>
+
+<p align="center">
+<i>游戏服务器就是分布式系统。协程调度器就是游戏主循环。<br/>理解其中一方，会让我更擅长另一方。</i>
+</p>
 
 ---
 
