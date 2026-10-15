@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/WTJunzhu">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E5%9C%A8%E7%B3%BB%E7%BB%9F%E5%BA%95%E5%B1%82%E7%90%86%E8%A7%A3%E5%B7%A5%E7%A8%8B;%E5%9C%A8%E8%A7%84%E5%88%99%E4%B9%8B%E5%A4%96%E8%AE%BE%E8%AE%A1%E6%B8%B8%E6%88%8F;%E4%B8%A4%E8%80%85%E5%85%BC%E5%A4%87" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%E5%9C%A8%E7%B3%BB%E7%BB%9F%E5%BA%95%E5%B1%82%E7%90%86%E8%A7%A3%E5%B7%A5%E7%A8%8B;%E5%9C%A8%E8%A7%84%E5%88%99%E4%B9%8B%E5%A4%96%E8%AE%BE%E8%AE%A1%E6%B8%B8%E6%88%8F;%E4%B8%A4%E8%80%85%E5%85%BC%E5%A4%87" alt="Typing SVG" />
   </a>
 </div>
 
